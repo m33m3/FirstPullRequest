@@ -30,7 +30,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Garrett, Zach
 - [X] Gerngross, Gloria
 - [ ] Gonzalez-Garilleti, Chema
-- [ ] Goodacre, Monal
+- [X] Goodacre, Monal :smile::boom: 
 - [ ] Gums, Erin
 - [X] Gutierrez, Johnny :boom::boom::boom:
 - [X] Hines, Matt
